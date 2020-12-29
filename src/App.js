@@ -27,7 +27,7 @@ const filteredCoins = coins.filter(coin =>
     <div className="coin-app">
       <div className="coin-logo-container">
         <div className="coin-logo"><img src={logo} alt="Crypto Summary"/>
-          <h1 className="coin-text">Crypto Summary</h1>
+          <h1 className="coin-text">Crypto Summary test</h1>
         </div>
         <div className="coin-search">
           <form>
